@@ -1,2 +1,6 @@
 ’‚ «≤‚ ‘git
+<<<<<<< Updated upstream
 456
+=======
+123
+>>>>>>> Stashed changes
